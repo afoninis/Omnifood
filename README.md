@@ -1,2 +1,2 @@
 # Omnifood
-Landing page for Omnifood website
+Landing page for Omnifood website (courses)
